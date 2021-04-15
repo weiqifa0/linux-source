@@ -1,0 +1,6 @@
+config PLGS_STK3420
+	tristate "Sensors PLGS_STK3420"
+	select PLGS_STK3420
+	default n
+	help
+	  This driver provides support for the PLGS_STK3420.

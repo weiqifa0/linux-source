@@ -1,0 +1,3 @@
+config TMP_AHT10
+	bool "tmp_aht10 for MediaTek package"
+	default n

@@ -1,0 +1,5 @@
+config SIMPLE_MOTOR
+       tristate "simple motor driver"
+       default n
+       help
+         simple motor driver.

@@ -1,0 +1,6 @@
+config PLGS_EM20918
+	tristate "Sensors PLGS_EM20918"
+	select PLGS_EM20918
+	default n
+	help
+	  This driver provides support for the PLGS_EM20918.
